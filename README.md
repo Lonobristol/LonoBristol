@@ -1,14 +1,15 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/christopher-bristol-29096947/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+Experienced professional with a diverse background in sales and cybersecurity, boasting over 5 years of sales expertise and 3+ years in cybersecurity. Equipped with a unique blend of technical proficiency and exceptional interpersonal skills, I am adept at bridging the gap between technology and business needs. With hands-on experience across a wide array of tools, both professionally and personally, I am poised to make a meaningful impact in the cybersecurity industry.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Objective]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Dedicated to leveraging my diverse background in sales and cybersecurity to showcase my expertise and proficiency in the cybersecurity domain. Through my GitBit, I aim to demonstrate my technical acumen, problem-solving abilities, and passion for cybersecurity, while highlighting my track record of success in both sales and cybersecurity roles. By showcasing my skills and experiences, I seek to contribute to the advancement of cybersecurity practices and make a positive impact in the industry.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
