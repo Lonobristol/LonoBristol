@@ -16,7 +16,7 @@ Dedicated to leveraging my diverse background in sales and cybersecurity to show
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Plan Presentation (Flatiron School)         | <a href="https://github.com/Lonobristol/LonoBristol/blob/main/Capstone%20Presentation%20(12).pdf">Presentation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
