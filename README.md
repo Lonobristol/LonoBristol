@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Christopher Bristol
 <a href="https://www.linkedin.com/in/christopher-bristol-29096947/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
