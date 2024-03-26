@@ -9,7 +9,7 @@ Experienced professional with a diverse background in sales and cybersecurity, b
 ## Objective
 
 
-Dedicated to leveraging my diverse background in sales and cybersecurity to showcase my expertise and proficiency in the cybersecurity domain. Through my GitBit, I aim to demonstrate my technical acumen, problem-solving abilities, and passion for cybersecurity, while highlighting my track record of success in both sales and cybersecurity roles. By showcasing my skills and experiences, I seek to contribute to the advancement of cybersecurity practices and make a positive impact in the industry.
+Dedicated to leveraging my diverse background in sales and cybersecurity to showcase my expertise and proficiency in the cybersecurity domain. Through my Github, I aim to demonstrate my technical acumen, problem-solving abilities, and passion for cybersecurity, while highlighting my track record of success in both sales and cybersecurity roles. By showcasing my skills and experiences, I seek to contribute to the advancement of cybersecurity practices and make a positive impact in the industry.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
