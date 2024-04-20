@@ -19,6 +19,6 @@ Dedicated to leveraging my diverse background in sales and cybersecurity to show
 | Incident Response Plan Presentation (Flatiron School)         | <a href="https://github.com/Lonobristol/LonoBristol/blob/main/Capstone%20Presentation%20(12).pdf">Presentation</a>|
 | Soc Analyst Traige example | <a href="https://medium.com/@lonobristol/triage-brute-force-alert-97f7250a6ddd">Detection Lab</a>|
 | Creating A Functioning SIEM Lab | <a href="https://medium.com/@lonobristol/elastic-siem-lab-6d857f560ea5">SIEM Lab</a>|
-| Creating A Home Network (Cisco Packet Tracecr) | <a href="https://medium.com/@lonobristol/creating-a-cisco-packet-tracer-network-6588ddcf473a">Home Network</a>|
+| Creating A Home Network (Cisco Packet Tracer) | <a href="https://medium.com/@lonobristol/creating-a-cisco-packet-tracer-network-6588ddcf473a">Home Network</a>|
 
 
