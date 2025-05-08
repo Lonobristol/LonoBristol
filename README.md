@@ -20,5 +20,5 @@ Dedicated to leveraging my diverse background in sales and cybersecurity to show
 | Soc Analyst Traige example | <a href="https://medium.com/@lonobristol/triage-brute-force-alert-97f7250a6ddd">Detection Lab</a>|
 | Creating A Functioning SIEM Lab | <a href="https://medium.com/@lonobristol/elastic-siem-lab-6d857f560ea5">SIEM Lab</a>|
 | Creating A Home Network (Cisco Packet Tracer) | <a href="https://medium.com/@lonobristol/creating-a-cisco-packet-tracer-network-6588ddcf473a">Home Network</a>|
-
+| Using Zeek to triage a phishing attempt| <a href="https://youtu.be/VjY7LXirVAs">Zeek</a>|
 
